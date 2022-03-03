@@ -66,6 +66,5 @@ int main(){
 		eye.move(-700,100);
 		win.wait_for_button();
 	}
-	win.wait_for_button();
 	
 }
