@@ -19,6 +19,7 @@ int main(){
 	
 	for(int y = y_grid; y<=y_size; y+=y_grid)
 		grid.add(Point{0,y},Point{x_size,y});
+
 		
 	Vector_ref<Rectangle> rects;
 			
@@ -37,7 +38,9 @@ int main(){
 		rects[i].set_color(Color::invisible);
 		win.attach(rects[i]);
 		}
+
 	win.attach(grid);
+	
 	
 	win.wait_for_button();
 	
