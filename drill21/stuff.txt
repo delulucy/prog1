@@ -1,0 +1,10 @@
+laptop 76 432.2
+purse 54 754.76
+keyboard 21 21.21
+phone 66 412.12
+bottle 33 756.3
+earplug 85 566.4
+bag 76 64.33
+spoon 10 756.23
+fork 453 534.11
+knife 54 32.44
